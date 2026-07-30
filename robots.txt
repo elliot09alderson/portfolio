@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/og-src.html
+
+Sitemap: https://pv.pfolio.tech/sitemap.xml
